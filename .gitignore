@@ -19,11 +19,15 @@ gamemode_armsrace.cfg
 gamemode_casual.cfg
 gamemode_competitive.cfg
 gamemode_competitive2v2.cfg
+gamemode_competitive_short.cfg
 gamemode_cooperative.cfg
 gamemode_coopmission.cfg
 gamemode_custom.cfg
 gamemode_deathmatch.cfg
+gamemode_deathmatch_short.cfg
+gamemode_deathmatch_tmm.cfg
 gamemode_demolition.cfg
+gamemode_dm_freeforall.cfg
 gamemode_retakecasual.cfg
 gamemode_survival.cfg
 gamemode_teamdeathmatch.cfg
@@ -92,3 +96,5 @@ gamemode_competitive_offline.cfg
 gamemode_competitive2v2_offline.cfg
 player_cfgs/other-cfg/server-connections.cfg
 gamestate_integration_allstar.cfg
+controller_config/steam_input_manifest.vdf
+controller_config/ps4_controller_config.vdf
