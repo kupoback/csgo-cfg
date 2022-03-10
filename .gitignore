@@ -98,3 +98,5 @@ player_cfgs/other-cfg/server-connections.cfg
 gamestate_integration_allstar.cfg
 controller_config/steam_input_manifest.vdf
 controller_config/ps4_controller_config.vdf
+controller_config/steam_deck_controller_config.vdf
+gamestate_integration_VolumeFix.cfg
